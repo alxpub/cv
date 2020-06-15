@@ -2,15 +2,37 @@
 layout: default
 ---
 
-## Alexey Pochuev - CV
-
-<div class="info">
-	<div class="info-row">
+<div>
+	<div>
 		<div class="info-col info-col-first">
-			טלפון
+			אלכסיי פוצ'ויב
 		</div>
-		<div class="info-col info-col-second">
-			050-6487849
+		
+		<div class="info">
+			<div class="info-row">
+				<div class="info-col info-col-second">
+					050-6487849
+				</div>
+			</div>
+			<div class="info-row">
+				<div class="info-col info-col-first">
+					טלפון
+				</div>
+				<div class="info-col info-col-second">
+					050-6487849
+				</div>
+			</div>
+			<div class="info-row">
+				<div class="info-col info-col-first">
+					אימייל
+				</div>
+				<div class="info-col info-col-second">
+					alexey@pochuev.com
+				</div>
+			</div>
 		</div>
+	</div>
+	<div>
+		123
 	</div>
 </div>
