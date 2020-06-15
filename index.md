@@ -4,6 +4,8 @@ layout: default
 
 <div>
 	<div>
+		<div><img src="/img/photo.jpg" alt="Alexey"></div>
+
 		<div class="info-col info-col-first">
 			אלכסיי פוצ'ויב
 		</div>
