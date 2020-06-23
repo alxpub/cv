@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div>
+<div style="direction:rtl;">
 	<div>
 		<div><img src="/img/photo.jpg" alt="Alexey"></div>
 
