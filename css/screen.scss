@@ -33,7 +33,8 @@ a {
 }
 
 .summary {
-	display: flexbox;
+	display: flex;
+	
 	.photo {
 		max-width: 150px;
 		img {
