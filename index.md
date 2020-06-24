@@ -3,13 +3,9 @@ layout: default
 ---
 
 <div style="direction:rtl;">
-	<div>
-		<div><img src="/img/photo.jpg" alt="Alexey"></div>
+	<div class="summary">
+		<div class="photo"><img src="/img/photo.jpg" alt="Alexey"></div>
 
-		<div class="info-col info-col-first">
-			אלכסיי פוצ'ויב
-		</div>
-		
 		<div class="info">
 			<div class="info-row">
 				<div class="info-col info-col-second">
