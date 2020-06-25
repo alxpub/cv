@@ -12,6 +12,7 @@ html {
 body {
 	margin: 0;
 	padding: 0;
+	direction: rtl;
 }
 
 a {
@@ -34,9 +35,11 @@ a {
 
 .summary {
 	display: flex;
-	
+
 	.photo {
 		max-width: 150px;
+		margin: 0 0 0 20px;
+
 		img {
 			width: 100%;
 		}
@@ -44,5 +47,17 @@ a {
 
 	.info {
 		color: #fff;
+
+		.info-row {
+			.info-col {
+				.info-col-first {
+
+				}
+
+				.info-col-second {
+
+				}
+			}
+		}
 	}
 }

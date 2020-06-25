@@ -8,8 +8,11 @@ layout: default
 
 		<div class="info">
 			<div class="info-row">
+				<div class="info-col info-col-first">
+					שם
+				</div>
 				<div class="info-col info-col-second">
-					050-6487849
+					אלכסיי פוצ'ויב
 				</div>
 			</div>
 			<div class="info-row">
