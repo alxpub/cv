@@ -5,6 +5,7 @@ html {
 	font-family: Arial;
 	font-size: 18px;
 	background: #fff;
+	color: #000;
 	margin: 0;
 	padding: 0;
 }
@@ -16,18 +17,17 @@ body {
 }
 
 a {
-  color: #f00;
+	color: rgb(0, 3, 196);
+	text-decoration: underline;
 }
 
 .site_wrapper {
 	width: 100%;
-	margin: 0 auto;
-	padding: 10px;
 	background: #fff;
 
 	.site_content {
 		max-width: 500px;
-		margin: 50 auto;
+		margin: 50px auto;
 		padding: 20px;
 		background: #eee;
 	}
@@ -60,7 +60,8 @@ a {
 					margin: 0 10px 0 0;
 
 					a {
-						color: rgb(187, 187, 187);
+						color: rgb(0, 3, 196);
+						text-decoration: underline;
 					}
 				}
 			}
