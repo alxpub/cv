@@ -9,7 +9,7 @@ layout: default
 		<div class="info">
 			<div class="info-row">
 				<div class="info-col info-col-first">
-					שם
+					שם:
 				</div>
 				<div class="info-col info-col-second">
 					אלכסיי פוצ'ויב
@@ -17,7 +17,7 @@ layout: default
 			</div>
 			<div class="info-row">
 				<div class="info-col info-col-first">
-					טלפון
+					טלפון:
 				</div>
 				<div class="info-col info-col-second">
 					050-6487849
@@ -25,10 +25,10 @@ layout: default
 			</div>
 			<div class="info-row">
 				<div class="info-col info-col-first">
-					אימייל
+					אימייל:
 				</div>
 				<div class="info-col info-col-second">
-					alexey@pochuev.com
+					<a href="mailto:alexey@pochuev.com">alexey@pochuev.com</a>
 				</div>
 			</div>
 		</div>

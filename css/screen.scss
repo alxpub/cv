@@ -49,13 +49,19 @@ a {
 		color: #fff;
 
 		.info-row {
+			display: flex;
+
 			.info-col {
 				.info-col-first {
 
 				}
 
 				.info-col-second {
+					margin: 0 10px 0 0;
 
+					a {
+						color: rgb(184, 184, 184);
+					}
 				}
 			}
 		}
