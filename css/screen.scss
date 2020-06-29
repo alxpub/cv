@@ -29,7 +29,7 @@ a {
 		max-width: 600px;
 		margin: 50px auto;
 		padding: 20px;
-		background: rgb(111, 216, 202);
+		background: #28a499;
 	}
 }
 
@@ -42,9 +42,10 @@ a {
 		padding: 20px;
 		min-width: 150px;
 		margin: 0 0 0 20px;
+		box-shadow: 3px 3px 5px #444;
 
 		.photo {
-	
+			border-radius: 50%;
 			img {
 				width: 100%;
 			}
