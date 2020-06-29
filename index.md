@@ -12,14 +12,6 @@ layout: default
 		<div class="info">
 			<div class="info-row">
 				<div class="info-col info-col-first">
-					שם:
-				</div>
-				<div class="info-col info-col-second">
-					אלכסיי פוצ'ויב
-				</div>
-			</div>
-			<div class="info-row">
-				<div class="info-col info-col-first">
 					טלפון:
 				</div>
 				<div class="info-col info-col-second">
