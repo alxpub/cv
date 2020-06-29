@@ -3,8 +3,11 @@ layout: default
 ---
 
 <div style="direction:rtl;">
-	<div class="summary">
-		<div class="photo"><img src="/img/photo.jpg" alt="Alexey"></div>
+	<div class="card">
+		<div class="summary">
+			<div class="photo"><img src="/img/photo.jpg" alt="Alexey"></div>
+			<div class="name">אלכסיי פוצ'ויב</div>
+		</div>
 
 		<div class="info">
 			<div class="info-row">
