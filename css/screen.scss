@@ -2,86 +2,86 @@
 ---
 
 html {
-	font-family: Arial;
-	font-size: 18px;
-	background: #fff;
-	color: #000;
-	margin: 0;
-	padding: 0;
+  font-family: Arial;
+  font-size: 18px;
+  background: #fff;
+  color: #000;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-	margin: 0;
-	padding: 0;
-	direction: rtl;
+  margin: 0;
+  padding: 0;
+  direction: rtl;
 }
 
 a {
-	color: rgb(0, 3, 196);
-	text-decoration: underline;
+  color: rgb(0, 3, 196);
+  text-decoration: underline;
 }
 
 .site_wrapper {
-	width: 100%;
-	background: #fff;
+  width: 100%;
+  background: #fff;
 
-	.site_content {
-		max-width: 600px;
-		margin: 50px auto;
-		padding: 20px;
-		background: #28a499;
-	}
+  .site_content {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #28a499;
+  }
 }
 
 .card {
-	display: flex;
+  display: flex;
 
-	.summary {
-		background: #fff;
-		border-radius: 20px;
-		padding: 20px;
-		width: 200px;
-		margin: 0 0 0 20px;
-		box-shadow: 3px 3px 5px #444;
+  .summary {
+    background: #fff;
+    border-radius: 20px;
+    padding: 20px;
+    width: 200px;
+    margin: 0 20px 0 0;
+    box-shadow: 3px 3px 5px #444;
 
-		.photo {	
-			padding: 2px;
-			border-radius: 50%;
-			background: #fff;
-			box-shadow: 0 0 5px #444;
+    .photo {
+      padding: 2px;
+      border-radius: 50%;
+      background: #fff;
+      box-shadow: 0 0 5px #444;
 
-			img {
-				border-radius: 50%;
-				width: 100%;
-				display: block;
-			}
-		}
+      img {
+        border-radius: 50%;
+        width: 100%;
+        display: block;
+      }
+    }
 
-		.name {
-			text-align: center;
-			color: #555;
-			font-size: 1.2em;
-		}
-	}
+    .name {
+      text-align: center;
+      color: #555;
+      font-size: 1.2em;
+    }
+  }
 
-	.info {
-		.info-row {
-			display: flex;
+  .info {
+    .info-row {
+      display: flex;
 
-			.info-col {
-				&.info-col-first {
-					min-width: 50px;
-				}
+      .info-col {
+        &.info-col-first {
+          min-width: 50px;
+        }
 
-				&.info-col-second {
-					margin: 0 10px 0 0;
+        &.info-col-second {
+          margin: 0 0 0 10px;
 
-					a {
-						color: rgb(0, 3, 196);
-						text-decoration: underline;
-					}
-				}
-			}
-		}
-	}
+          a {
+            color: rgb(0, 3, 196);
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
 }
