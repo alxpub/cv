@@ -5,7 +5,7 @@ layout: default
 <div style="direction:rtl;">
 	<div class="card">
 		<div class="summary">
-			<div class="photo"><img src="{{'/img/photo.jpg'}}" alt="Alexey"></div>
+			<div class="photo"><img src="{{ '/img/photo.jpg' | relative_url }}" alt="Alexey"></div>
 			<div class="name">Alexey Pochuev</div>
 		</div>
 
